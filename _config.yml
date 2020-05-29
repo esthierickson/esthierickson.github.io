@@ -3,10 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Telehealth Surveys and Interviews
 
 # Short bio or description (displayed in the header)
-description: Summer 2020 DREU Project
+description:  The surveys and interviews study aim to investigate challenges, benefits, and opportunities that health practitioners are now experiencing with the use of telecommunication solutions in the time of pandemic.
+We will be using Qualtrics as a web-based survey and integrating a voice-to-text option so that users can record their responses as they might be long.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: ericksonesthi@gmail.com
   facebook:
   flickr:
-  rss: # just type anything here for a working RSS icon
+  rss: h
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://esthierickson.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
