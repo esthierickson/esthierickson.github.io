@@ -28,9 +28,13 @@ Dr. Mentis's research interests include the following to address the issues of i
 
 ## My Blog
 Week 1 (May 18 - May 22) 
+
 Week 2 (May 25 - May 29) 
+
 Week 3 (June 1 - June 5)
+
 Week 4 (June 8 - June 12) 
+
 Week 5 (June 15 - June 19) 
 
 [My Blog](blog.html)
