@@ -27,7 +27,8 @@ Dr. Mentis's research interests include the following to address the issues of i
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
-Week 1 (May 18 - May 22) 
+Week 1 (May 18 - May 22) <br/>
+During my first week of the DREU program I met with my mentor Dr. Helena M. Mentis virtually. We talked about the many projects that her lab was working on. Her research focuses mainly on the improvement of telehealth by gathering input from health profressionals about remote mentoring and interaction. She gave me an overview of these projects and let me choose one to work on that sounded the most interesting to me. I thought that the research that they were going to do with collecting surveys and interviews from health practitioners about the benefits, stuggles, and new opportunities of the use of telecommunication solutions in the time of the COVID-19 pandemic. 
 
 Week 2 (May 25 - May 29) 
 
