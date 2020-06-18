@@ -10,6 +10,8 @@ title: Summer 2020 DREU Project Site
 
 I am in my third year at the University of Minnesota pursuing my bachelor’s degree in computer science and sustainability. I will be graduating Spring 2022. I am also a part of the Outdoors club and ACM-W here at school. In my free time I love to bike, hike, and rock climb.
 
+[LinkedIn](https://www.linkedin.com/in/esthi-erickson-890554184)
+
 ## About My Mentor
 Dr. Helena M. Mentis is a profesor at University of Maryland Baltimore County in the Department of Information Systems. She is also the director the Bodies in Motion Lab.
 Dr. Mentis's research interests include the following to address the issues of imaging interaction in surgery and patient empowerment. 
@@ -34,9 +36,10 @@ During my first week of the DREU program I met with my mentor Dr. Helena M. Ment
 During my second week, I met the rest of the lab that Dr. Mentis oversees now virtually. I have never done research like this before and it was encouraging to see that everyone else was so excited to collaborate even if we were all geographically far apart. Everyone that I met during our Webex meeting were graduate or Ph. D students, so that was a bit intimidating. Even though I did not have much prior knowledge of the projects that everyone was working on, I was happy just to listen and learn about how their meetings work. It gave me a good idea of how much work goes into research collaboration. 
 
 ### Week 3 (June 1 - June 5) <br/>
+During my third week, I got in contact with the person leading the Telehealth Surveys & Interview project, Azin. She sent me some helpful information about the basis for the study as well as training to complete. The training walked me through the research process, ethical principles, and the history that those are based upon. Once I had completed that training, during our weekly meeting as a lab on Wednesdays I was tasked with figuring out how to integrate a voice-to-text recognition to our Qualtrics survey. The survey was already created along with the questions by Azin and Ignacio who also works in the lab. After much research into the topic, I ended up calling Qualtrics IT to ask if this integration was possible, but they told me that it is not yet available. I met virtually with Azin about this and she had found a different software, Phonics, that we might be able to use after we check with the IRB approval board. 
 
-
-### Week 4 (June 8 - June 12) 
+### Week 4 (June 8 - June 12) <br/>
+During my fourth week, I met with Azin again to go over the process of writing an introduction for a research paper. The main questions that should be answered in the introduction are: What is the problem? Why is it a problem? What are approaches that already exist for this problem? What is the approach that you plan to use? As well as a summary of our findings. She also shared some helpful resources for me to cite related work as it pertains to our project. I got to work on answering these questions about our study and read interesting papers published on the ACM-DL website. Both Azin and Ignacio gave me helpful feedback on the studies I found as well as my introduction. 
 
 ### Week 5 (June 15 - June 19) 
 
