@@ -12,7 +12,7 @@ I am in my third year at the University of Minnesota pursuing my bachelor’s de
 
 
 ## About My Mentor
-Dr. Helena M. Mentis is a profesor at University of Maryland Baltimore County in the Department of Information Systems. She is also the director the Bodies in Motion Lab.
+Dr. Helena M. Mentis is a professor at University of Maryland Baltimore County in the Department of Information Systems. She is also the director the Bodies in Motion Lab.
 Dr. Mentis's research interests include the following to address the issues of imaging interaction in surgery and patient empowerment. 
 
   - Human-Center Computing
