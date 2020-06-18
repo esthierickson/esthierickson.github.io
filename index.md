@@ -10,7 +10,6 @@ title: Summer 2020 DREU Project Site
 
 I am in my third year at the University of Minnesota pursuing my bachelor’s degree in computer science and sustainability. I will be graduating Spring 2022. I am also a part of the Outdoors club and ACM-W here at school. In my free time I love to bike, hike, and rock climb.
 
-[LinkedIn](https://www.linkedin.com/in/esthi-erickson-890554184)
 
 ## About My Mentor
 Dr. Helena M. Mentis is a profesor at University of Maryland Baltimore County in the Department of Information Systems. She is also the director the Bodies in Motion Lab.
