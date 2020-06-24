@@ -38,6 +38,6 @@ During my third week, I got in contact with the person leading the Telehealth Su
 ### Week 4 (June 8 - June 12) <br/>
 During my fourth week, I met with Azin again to go over the process of writing an introduction for a research paper. The main questions that should be answered in the introduction are: What is the problem? Why is it a problem? What are approaches that already exist for this problem? What is the approach that you plan to use? As well as a summary of our findings. She also shared some helpful resources for me to cite related work as it pertains to our project. I got to work on answering these questions about our study and read interesting papers published on the ACM-DL website. Both Azin and Ignacio gave me helpful feedback on the studies I found as well as my introduction. 
 
-### Week 5 (June 15 - June 19) 
-
+### Week 5 (June 15 - June 19) <br/>
+During my fifth week, I worked on collecting more information on related work that has already been done on telehealth solutions. I met with Ignacio to go over our introduction and learn how to use LaTeX and Overleaf to edit our research paper. I found great resouces on the ACM-DL website again and used Zotero to cite my sources. Ignacio reviewed my sources and send me other helpful informtion to use while writing the related works section. In this section, I aimed to answer, "What work as already been done to move along the process of introducing more technology into healthcare?" and "How does the lack of information on the topic create an opportunity for Humuan Computer Interaction (HCI) to do more research?".
 
