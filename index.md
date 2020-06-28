@@ -21,7 +21,7 @@ Dr. Mentis' research interests include the following subjects that address the i
   
 
 ## About My Project
-
+My project for this research has been to lead our research paper. I have helped write the introduction, related work, and make sure the the rest of our study goes smoothly. 
 
 [My Final Report](files/finalreport.pdf)
 
