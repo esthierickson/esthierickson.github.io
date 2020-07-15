@@ -44,5 +44,11 @@ During my fifth week, I worked on collecting more information on related work th
 ### Week 6 (June 22 - June 26) <br/>
 During my sixth week, I worked on finishing collecting information for the Related Work portion of our reseach paper. I continued to read the sources that Ignacio had sent me as well as looking up helpful sources online through ACM-DL. I wrote out the general structure of the section and added research to support my statements. Next week I will be submitting the paper, along with the introduction, to have other research students to review. 
 
-### Week 7 (June 29 - July 3) </br>
-During my seventh week, I worked on finishing up the Related Work portion of our reseach paper. I started not knowing how to format this section, but it really helped me to look up examples and proper citations. I started by writing a template structure of what I wanted to include in the section and continued to add research and studies to back up my claims. Ignacio was able to review my paper before we submitted it for our peers to look at and gave me great feedback which helped me improve the paper. //going to add more after CHI paper review
+### Week 7 (June 29 - July 3) <br/>
+During my seventh week, I worked on finishing up the Related Work portion of our reseach paper. I started not knowing how to format this section, but it really helped me to look up examples and proper citations. I started by writing a template structure of what I wanted to include in the section and continued to add research and studies to back up my claims. Ignacio was able to review my paper before we submitted it for our peers to look at and gave me great feedback which helped me improve the paper. We also virtually attended a research paper workshop, where everyone reads and reviews paper submissions. We recieved high level feedback that will help make our paper easier to understand. 
+
+### Week 8 (July 6 - July 10) <br/>
+During my eigth week, I worked on making the revisions to our RW in our paper. People who reviewed our paper suggested that we add more about the lack on concensus on the defintion of telehealth and moving around some sections of the paper to create a storytelling aspect to our RW. I worked on that along with finding better research that has been done into the impact of telehealth before and after COVID-19 as the statistics that we have related to this are from differnet sources. 
+
+### Week 9 (July 13th - July 17th) <br/>
+//add
